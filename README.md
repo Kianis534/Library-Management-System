@@ -93,6 +93,5 @@ cmake --build .
 
 ## ⚖️ License & Contribution
 
-This project is released under the **MIT License**. It is open-source and intended for educational use. Students are encouraged to fork the repository to experiment with advanced C++ features or to add new modules such as a Graphical User Interface (GUI) or an SQL backend.
+It is open-source and intended for educational use. Students are encouraged to fork the repository to experiment with advanced C++ features or to add new modules such as a Graphical User Interface (GUI) or an SQL backend.
 
-*SEO Tags: C++ Project, Library Management System, Modern C++17, OOP Tutorial, Data Persistence C++, Clean Code Examples, University Project Help, LMS GitHub.*
